@@ -15,11 +15,11 @@
      "System Version: macOS 10.15.7 (19H2)",
      "Google Chrome Version 99.0.4844.84 (Official Build) (x86_64)"
      ],
-  "Severity": "major",
-  "Priority": "medium",
-  "Status": "new",
+  "Severity": "Major",
+  "Priority": "Medium",
+  "Status": "New",
   "Author": "Daria Filko",
-  "Assigned To": "Name"
+  "Assigned To": "Name",
   "Attachment": 
      [
      "Attachment 1",
